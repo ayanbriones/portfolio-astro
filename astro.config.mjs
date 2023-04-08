@@ -7,6 +7,6 @@ import image from '@astrojs/image'
 // https://astro.build/config
 export default defineConfig({
   integrations: [react(), tailwind(), image()],
-  site: 'https://portfolio.bryanthbriones.com/',
-  base: '/public_html/portfolio-bryanthbriones-com',
+  // site: 'https://portfolio.bryanthbriones.com/',
+  // base: '/public_html/portfolio-bryanthbriones-com',
 })
